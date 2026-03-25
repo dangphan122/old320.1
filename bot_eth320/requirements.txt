@@ -1,0 +1,8 @@
+aiohttp>=3.9.0
+requests>=2.31.0
+py_clob_client>=0.34.6
+Flask>=3.0.0
+websockets>=11.0
+numpy>=1.26.0
+scipy>=1.11.0
+pandas>=2.1.0

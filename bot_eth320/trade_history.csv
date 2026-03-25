@@ -1,0 +1,8 @@
+timestamp,event_type,position_id,event_name,strike,side,order_type,tokens,entry_price,exit_price,invested_usd,realized_pnl_usd,roi_pct,entry_edge_pct,entry_reason,close_reason,runtime_min
+2026-03-21T13:54:15.440339+00:00,OPEN,1d8e4d99,Ethereum above ___ on March 24?,1900,NO,MAKER_POST_ONLY,29.67,0.0180,,0.53,,,2.10,NO edge=2.1% kelly=0.011â†’0.003 iv_raw=79.3% iv_adj=77.0% T=3.1d deribit=24MAR26 tier=5.0%,,
+2026-03-25T03:03:15.443948+00:00,OPEN,29d99869,Ethereum above ___ on March 28?,1900,NO,TAKER_FAK,29.01,0.0310,,0.90,,,3.46,NO edge=3.5% kelly=0.018â†’0.004 iv_raw=85.3% iv_adj=82.7% T=3.5d deribit=28MAR26 tier=5.0%,,
+2026-03-25T03:03:15.524651+00:00,OPEN,4b34dbdf,Ethereum above ___ on March 31?,1900,NO,TAKER_FAK,10.00,0.0800,,0.80,,,3.77,NO edge=3.8% kelly=0.021â†’0.005 iv_raw=78.6% iv_adj=76.2% T=6.5d deribit=3APR26 tier=5.0%,,
+2026-03-25T03:06:57.724884+00:00,OPEN,bc05f738,Ethereum above ___ on March 26?,2000,NO,MAKER_POST_ONLY,12.38,0.0410,,0.51,,,2.22,NO edge=2.2% kelly=0.010â†’0.003 iv_raw=79.1% iv_adj=76.7% T=1.5d deribit=26MAR26 tier=5.0%,,
+2026-03-25T03:07:39.847458+00:00,OPEN,9a016e31,Ethereum above ___ on March 27?,2000,NO,MAKER_POST_ONLY,8.13,0.0810,,0.66,,,2.31,NO edge=2.3% kelly=0.013â†’0.003 iv_raw=76.5% iv_adj=74.3% T=2.5d deribit=27MAR26 tier=5.0%,,
+2026-03-25T03:16:51.212775+00:00,OPEN,729ecfe8,Ethereum above ___ on March 30?,1900,NO,MAKER_POST_ONLY,10.35,0.0610,,0.63,,,2.33,NO edge=2.3% kelly=0.013â†’0.003 iv_raw=78.3% iv_adj=75.9% T=5.5d deribit=3APR26 tier=5.0%,,
+2026-03-25T03:16:56.603738+00:00,OPEN,1e03ffa0,Ethereum above ___ on March 29?,2000,NO,MAKER_POST_ONLY,4.84,0.1310,,0.63,,,3.47,NO edge=3.5% kelly=0.013â†’0.003 iv_raw=73.3% iv_adj=71.1% T=4.5d deribit=3APR26 tier=5.0%,,
